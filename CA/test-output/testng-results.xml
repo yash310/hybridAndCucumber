@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-27T03:11:15 GMT-07:00" name="Suite" finished-at="2021-09-27T03:13:33 GMT-07:00" duration-ms="138399">
+    <groups>
+    </groups>
+    <test started-at="2021-09-27T03:11:15 GMT-07:00" name="Test" finished-at="2021-09-27T03:13:33 GMT-07:00" duration-ms="138399">
+      <class name="com.urbanladder.runner.runner2">
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:11:15 GMT-07:00" name="launchDriver" finished-at="2021-09-27T03:11:23 GMT-07:00" duration-ms="8268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="addingToCart()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:11:23 GMT-07:00" name="addingToCart" finished-at="2021-09-27T03:11:36 GMT-07:00" duration-ms="13411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingToCart -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:11:36 GMT-07:00" name="closeDriver" finished-at="2021-09-27T03:11:37 GMT-07:00" duration-ms="660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:11:37 GMT-07:00" name="launchDriver" finished-at="2021-09-27T03:11:46 GMT-07:00" duration-ms="8815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="addressValidation()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:11:46 GMT-07:00" name="addressValidation" finished-at="2021-09-27T03:11:59 GMT-07:00" duration-ms="12578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addressValidation -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:11:59 GMT-07:00" name="closeDriver" finished-at="2021-09-27T03:11:59 GMT-07:00" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:11:59 GMT-07:00" name="launchDriver" finished-at="2021-09-27T03:12:07 GMT-07:00" duration-ms="8263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="contactUsValidation()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:07 GMT-07:00" name="contactUsValidation" finished-at="2021-09-27T03:12:11 GMT-07:00" duration-ms="3962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUsValidation -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:11 GMT-07:00" name="closeDriver" finished-at="2021-09-27T03:12:12 GMT-07:00" duration-ms="536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:12 GMT-07:00" name="launchDriver" finished-at="2021-09-27T03:12:21 GMT-07:00" duration-ms="9002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="login()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:21 GMT-07:00" name="login" finished-at="2021-09-27T03:12:25 GMT-07:00" duration-ms="3921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:25 GMT-07:00" name="closeDriver" finished-at="2021-09-27T03:12:25 GMT-07:00" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:25 GMT-07:00" name="launchDriver" finished-at="2021-09-27T03:12:32 GMT-07:00" duration-ms="6981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="playstore()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:32 GMT-07:00" name="playstore" finished-at="2021-09-27T03:12:37 GMT-07:00" duration-ms="5429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playstore -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:37 GMT-07:00" name="closeDriver" finished-at="2021-09-27T03:12:38 GMT-07:00" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:38 GMT-07:00" name="launchDriver" finished-at="2021-09-27T03:12:44 GMT-07:00" duration-ms="5559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="signup()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:44 GMT-07:00" name="signup" finished-at="2021-09-27T03:12:48 GMT-07:00" duration-ms="4613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:48 GMT-07:00" name="closeDriver" finished-at="2021-09-27T03:12:49 GMT-07:00" duration-ms="397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:49 GMT-07:00" name="launchDriver" finished-at="2021-09-27T03:12:55 GMT-07:00" duration-ms="5911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="validateCareersURL()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:55 GMT-07:00" name="validateCareersURL" finished-at="2021-09-27T03:12:57 GMT-07:00" duration-ms="2849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCareersURL -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:57 GMT-07:00" name="closeDriver" finished-at="2021-09-27T03:12:58 GMT-07:00" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:12:58 GMT-07:00" name="launchDriver" finished-at="2021-09-27T03:13:04 GMT-07:00" duration-ms="5813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="validateTitle()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:13:04 GMT-07:00" name="validateTitle" finished-at="2021-09-27T03:13:04 GMT-07:00" duration-ms="898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:13:04 GMT-07:00" name="closeDriver" finished-at="2021-09-27T03:13:05 GMT-07:00" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:13:05 GMT-07:00" name="launchDriver" finished-at="2021-09-27T03:13:13 GMT-07:00" duration-ms="7954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="validatingFacebookURL()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:13:13 GMT-07:00" name="validatingFacebookURL" finished-at="2021-09-27T03:13:22 GMT-07:00" duration-ms="9628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingFacebookURL -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:13:22 GMT-07:00" name="closeDriver" finished-at="2021-09-27T03:13:23 GMT-07:00" duration-ms="705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:13:23 GMT-07:00" name="launchDriver" finished-at="2021-09-27T03:13:30 GMT-07:00" duration-ms="6904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="emailSubscriptionValidation()[pri:1, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:13:30 GMT-07:00" name="emailSubscriptionValidation" finished-at="2021-09-27T03:13:33 GMT-07:00" duration-ms="2610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailSubscriptionValidation -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.urbanladder.runner.runner2@12aba8be]" started-at="2021-09-27T03:13:33 GMT-07:00" name="closeDriver" finished-at="2021-09-27T03:13:33 GMT-07:00" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.urbanladder.runner.runner2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
